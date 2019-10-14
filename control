@@ -9,6 +9,8 @@ XB-Eula: eula-ni-standard,
 Priority: standard
 Homepage: http://www.ni.com
 Recommends: ni-scan-engine-veristand-{veristand_version}-support (>=19.1.0), ni-synchronization-veristand-{veristand_version}-support (>=19.1.0), ni-engine-simulation-veristand-{veristand_version}-support (>=19.1.0), ni-slsc12201-veristand-{veristand_version}-support (>=19.1.0), ni-slsc-eds-veristand-{veristand_version}-support (>=19.1.0), ni-routing-and-faulting-veristand-{veristand_version}-support (>=19.2.0), ni-slsc-switch-veristand-{veristand_version}-support (>=19.2.0),
+Conflicts: ni-veristand-custom-device-support
+Replaces: ni-veristand-custom-device-support
 XB-LanguageSupport: en
 XB-AlwaysRemoves: ni-scan-engine-veristand-2019-support, ni-synchronization-veristand-2019-support, ni-engine-simulation-veristand-2019-support, ni-slsc12201-veristand-2019-support, ni-slsc-eds-veristand-2019-support, ni-routing-and-faulting-veristand-2019-support, ni-slsc-switch-veristand-2019-support,
 XB-StoreProduct: yes
