@@ -3,8 +3,8 @@ Version: {nipkg_version}
 Architecture: windows_all
 Maintainer: National Instruments <support@ni.com>
 XB-Plugin: file
-Description: Adds custom devices to NI VeriStand.
-  Custom devices are add-ons that provide extended functionality to the NI VeriStand environment.
+Description: Adds custom devices to VeriStand.
+  Custom devices are add-ons that provide extended functionality to the VeriStand environment.
 XB-Eula: eula-ni-standard,
 Priority: standard
 Homepage: http://www.ni.com
@@ -14,5 +14,5 @@ XB-AlwaysRemoves: ni-scan-engine-veristand-2019-support, ni-scan-engine-veristan
 XB-StoreProduct: yes
 Section: Add-Ons
 XB-DisplayVersion: {display_version}
-XB-DisplayName: NI VeriStand Custom Devices
+XB-DisplayName: VeriStand Custom Devices
 XB-UserVisible: yes
