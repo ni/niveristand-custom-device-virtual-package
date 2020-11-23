@@ -6,3 +6,6 @@ archive_location = '\\nirvana\Measurements\VeriStandAddons\download_item_package
 type = 'nipkg'
 payload_dir = 'Built'
 install_destination = '' # Create virtual package with no payload
+
+[notification]
+type = 'teams'
