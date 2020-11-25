@@ -45,5 +45,5 @@ Using the [build process](https://github.com/ni/niveristand-custom-device-build-
 
 (taken from [developercertificate.org](https://developercertificate.org/))
 
-See [LICENSE](https://github.com/ni/niveristand-custom-device-virtual-package/blob/master/LICENSE)
+See [LICENSE](https://github.com/ni/niveristand-custom-device-virtual-package/blob/main/LICENSE)
 for details about how niveristand-custom-device-virtual-package is licensed.
